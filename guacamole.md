@@ -8,4 +8,5 @@
 
 \## Instructions
 
-* peel the avocados
+
+* peel the inappropriate avocados
